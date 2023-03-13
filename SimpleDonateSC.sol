@@ -3,7 +3,7 @@
 pragma solidity ^0.8.17;
 
 
-contract SimpleDonateSC {
+contract Dasha-SimpleSC {
 
     address public owner;
     mapping (address => uint) public payments;
